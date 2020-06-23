@@ -9,3 +9,5 @@ Para chegar nessa resposta foram elaborados os seguintes estudos:
 - [Estudo do NPS](nps_analysis.ipynb)
 - [Análise Cohort](cohort_analysis.ipynb)
 - [Análise de Sobrevivência](survival_analysis.ipynb)
+
+A apresentação dos resultados se encontra [neste arquivo](apresentacao.pdf)
